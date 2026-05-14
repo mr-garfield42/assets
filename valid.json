@@ -4,7 +4,10 @@
   "quietly-bold-river.global.ssl.fastly.net",
   "remotely-simple-kite.global.ssl.fastly.net",
   "ixl-portal.global.ssl.fastly.net",
-  "https://nexus-mu-flame.vercel.app",
-  "https://nexus-dev.nexus-app.workers.dev",
-  "https://nexus.nexus-app.workers.dev"
+  "nexus-mu-flame.vercel.app",
+  "nexus-dev.nexus-app.workers.dev",
+  "nexus.nexus-app.workers.dev",
+  "localhost:5174",
+  "localhost:5173",
+  "localhost:5175"
 ]
