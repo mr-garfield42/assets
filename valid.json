@@ -9,5 +9,8 @@
   "nexus.nexus-app.workers.dev",
   "localhost:5174",
   "localhost:5173",
-  "localhost:5175"
+  "localhost:5175",
+  "http://localhost:5173",
+  "http://localhost:5174",
+  "http://localhost:5175"
 ]
